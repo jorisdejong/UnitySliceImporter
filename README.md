@@ -20,6 +20,7 @@ Import slice data from Resolume to Unity primitives
 
 - PC only. If someone wants to add Syphon for Mac people, open a PR
 - No polygons, no input masks, no fixture slices. If someone wants to add those, open a PR
+- Defaults to Arena 7 folder. If someone wants to add version selection, open a PR
 
 <h4>acknowledgements</h4>
 SliceImporter bundles the excellent KlakSpout by Keijiro: https://github.com/keijiro/KlakSpout
