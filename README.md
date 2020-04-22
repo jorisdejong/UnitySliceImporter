@@ -4,7 +4,7 @@ Import slice data from Resolume to Unity primitives
 
 - Create your input map in Resolume and save it
 - Create a new Unity project
-- Download the SliceImporter.unitypackage from (releases/latest)
+- Download the SliceImporter.unitypackage from https://github.com/jorisdejong/UnitySliceImporter/releases/latest
 - Double click the .unitypackage and import all
 - Apply the SliceImporter.cs script on an empty GameObject
 - In the Inspector, fill out the name of your Resolume setup file
